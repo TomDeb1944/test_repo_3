@@ -1,0 +1,3 @@
+so I created 1 and 2 txt files and addred to commit_test_1
+then I edited 1.txt and addred to commit_test_2
+now I am editing 2.txt and I am going to add it to commit_test_2
