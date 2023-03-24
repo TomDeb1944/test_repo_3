@@ -1,3 +1,9 @@
 note in 4.txt in branch_2
 going to add it to another commit
 then I will try to do something I didn't figure out yet ;)
+
+Ok, so I guess I am editing 4.txt in new branch - branch_3
+this file will be changed obviously
+however I wonder if the same note will change in Branch_2
+
+let's check it
