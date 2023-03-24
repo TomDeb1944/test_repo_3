@@ -1,1 +1,2 @@
-first test note
+this text file was firstly added to commit "commit_test_1"
+once added, I'm changing this text file by adding this note
