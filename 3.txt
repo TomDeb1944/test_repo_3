@@ -1,0 +1,6 @@
+just adding the note to 3.txt
+I am going to add it to staging area
+once done, I'm going to add it to commit
+
+once done, I will edit this text file and add it to different commit
+tbc.
