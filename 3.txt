@@ -4,3 +4,7 @@ once done, I'm going to add it to commit
 
 once done, I will edit this text file and add it to different commit
 tbc.
+
+Ok, so by doing this note I'm editing the file, but going to add to a different commit
+expected result? see the note till "tbc" in previous commit, and see the notes done after in different commit
+so basically 2 different notes in the same file
