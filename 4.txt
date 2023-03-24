@@ -1,0 +1,3 @@
+note in 4.txt in branch_2
+going to add it to another commit
+then I will try to do something I didn't figure out yet ;)
