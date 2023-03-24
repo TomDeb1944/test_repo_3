@@ -8,3 +8,6 @@ tbc.
 Ok, so by doing this note I'm editing the file, but going to add to a different commit
 expected result? see the note till "tbc" in previous commit, and see the notes done after in different commit
 so basically 2 different notes in the same file
+
+overwritten 3.txt in the same commit
+doing this note to complete expected result
